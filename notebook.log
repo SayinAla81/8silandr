@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2024.8.22)  18 DEC 2024 18:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2024.8.22)  18 DEC 2024 20:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,12 +380,13 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) (./notebook.toc)
+))
+No file notebook.toc.
 \tf@toc=\write3
 \openout3 = `notebook.toc'.
 
- (./contents.tex
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4.
+(./contents.tex
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2.
  (c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) (.//sublime_config.txt
@@ -401,26 +402,57 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 ) (.//temp.cpp
 LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <8> not available
 (Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 17.
-) (.//token.cpp) (.//convert_strdouble.cpp) (.//most divisors.cpp [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+) (.//STL.cpp) (.//compress.cpp) (.//random.cpp) (.//set intersection.cpp) (.//ordered_set.cpp) (.//overload.cpp [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]) (.//z_function.cpp
+]) (.//token.cpp) (.//convert_strdouble.cpp) (.//combine.cpp) (.//most divisors.cpp [2]) (.//numbertheory.cpp) (.//ntt.cpp) (.//SOS.cpp) (.//matrice.cpp [3]) (.//fen2d.cpp) (.//fenwickpro.cpp) (.//hld.cpp [4]) (.//MO's algo.cpp
+
+.//MO's algo.cpp:3: LaTeX Error: Invalid UTF-8 byte sequence (Ô\lst@FillFixed@\lst@ECº).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3   if (A.l / S ÔºÅ=
+                       B.l / S) return A.l / S < B.l / S;
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+.//MO's algo.cpp:3: LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3   if (A.l / S ÔºÅ=
+                       B.l / S) return A.l / S < B.l / S;
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+) (.//hash.cpp) (.//z_function.cpp
 LaTeX Font Info:    Font shape `TS1/pcr/m/it' in size <8> not available
 (Font)              Font shape `TS1/pcr/m/sl' tried instead on input line 4.
-) (.//2sat.cpp)) [2] (./notebook.aux) ) 
+) (.//ahoo.cpp) (.//SuffixArray.cpp) (.//dijkastra.cpp [5]) (.//scc.cpp) (.//2sat.cpp) (.//centroid.cpp [6]) (.//dinitz.cpp) (.//eularian tour.cpp) (.//min cost max flow.cpp [7]) (.//Geo.cpp [8] [9]) (.//Geometry.cpp) (.//Convex hull trick.cpp [10]) (.//convexhull.cpp) (.//circle.cpp [11]) (.//point in circle.cpp) (.//circle-line.cpp)) [12] (./notebook.aux) ) 
 Here is how much of TeX's memory you used:
- 6604 strings out of 478268
- 96415 string characters out of 5850345
- 1261699 words of memory out of 5000000
- 24712 multiletter control sequences out of 15000+600000
- 477501 words of font info for 57 fonts, out of 8000000 for 9000
+ 7447 strings out of 478268
+ 105650 string characters out of 5850345
+ 1582256 words of memory out of 5000000
+ 25468 multiletter control sequences out of 15000+600000
+ 476132 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,76p,286b,2086s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (2 pages, 123303 bytes).
+ 70i,12n,76p,286b,2092s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
+Output written on notebook.pdf (12 pages, 126967 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

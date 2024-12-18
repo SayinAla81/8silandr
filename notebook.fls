@@ -356,17 +356,8 @@ INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./notebook.toc
-INPUT notebook.toc
-INPUT notebook.toc
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 OUTPUT notebook.toc
 INPUT contents.tex
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT .//sublime_config.txt
 INPUT .//sublime_config.txt
 INPUT c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1pcr.fd
@@ -403,24 +394,43 @@ INPUT .//temp.cpp
 INPUT .//temp.cpp
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrro7t.tfm
-INPUT .//token.cpp
-INPUT .//token.cpp
-INPUT .//token.cpp
-INPUT .//token.cpp
-INPUT .//token.cpp
-INPUT .//token.cpp
-INPUT .//convert_strdouble.cpp
-INPUT .//convert_strdouble.cpp
-INPUT .//convert_strdouble.cpp
-INPUT .//convert_strdouble.cpp
-INPUT .//convert_strdouble.cpp
-INPUT .//convert_strdouble.cpp
-INPUT .//most divisors.cpp
-INPUT .//most divisors.cpp
-INPUT .//most divisors.cpp
-INPUT .//most divisors.cpp
-INPUT .//most divisors.cpp
-INPUT .//most divisors.cpp
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT .//STL.cpp
+INPUT .//STL.cpp
+INPUT .//STL.cpp
+INPUT .//STL.cpp
+INPUT .//STL.cpp
+INPUT .//STL.cpp
+INPUT .//compress.cpp
+INPUT .//compress.cpp
+INPUT .//compress.cpp
+INPUT .//compress.cpp
+INPUT .//compress.cpp
+INPUT .//compress.cpp
+INPUT .//random.cpp
+INPUT .//random.cpp
+INPUT .//random.cpp
+INPUT .//random.cpp
+INPUT .//random.cpp
+INPUT .//random.cpp
+INPUT .//set intersection.cpp
+INPUT .//set intersection.cpp
+INPUT .//set intersection.cpp
+INPUT .//set intersection.cpp
+INPUT .//set intersection.cpp
+INPUT .//set intersection.cpp
+INPUT .//ordered_set.cpp
+INPUT .//ordered_set.cpp
+INPUT .//ordered_set.cpp
+INPUT .//ordered_set.cpp
+INPUT .//ordered_set.cpp
+INPUT .//ordered_set.cpp
+INPUT .//overload.cpp
+INPUT .//overload.cpp
+INPUT .//overload.cpp
+INPUT .//overload.cpp
+INPUT .//overload.cpp
+INPUT .//overload.cpp
 OUTPUT notebook.pdf
 INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
@@ -430,6 +440,84 @@ INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrb7t.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrb8r.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrro7t.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrro8r.tfm
+INPUT .//token.cpp
+INPUT .//token.cpp
+INPUT .//token.cpp
+INPUT .//token.cpp
+INPUT .//token.cpp
+INPUT .//token.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//combine.cpp
+INPUT .//combine.cpp
+INPUT .//combine.cpp
+INPUT .//combine.cpp
+INPUT .//combine.cpp
+INPUT .//combine.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//numbertheory.cpp
+INPUT .//numbertheory.cpp
+INPUT .//numbertheory.cpp
+INPUT .//numbertheory.cpp
+INPUT .//numbertheory.cpp
+INPUT .//numbertheory.cpp
+INPUT .//ntt.cpp
+INPUT .//ntt.cpp
+INPUT .//ntt.cpp
+INPUT .//ntt.cpp
+INPUT .//ntt.cpp
+INPUT .//ntt.cpp
+INPUT .//SOS.cpp
+INPUT .//SOS.cpp
+INPUT .//SOS.cpp
+INPUT .//SOS.cpp
+INPUT .//SOS.cpp
+INPUT .//SOS.cpp
+INPUT .//matrice.cpp
+INPUT .//matrice.cpp
+INPUT .//matrice.cpp
+INPUT .//matrice.cpp
+INPUT .//matrice.cpp
+INPUT .//matrice.cpp
+INPUT .//fen2d.cpp
+INPUT .//fen2d.cpp
+INPUT .//fen2d.cpp
+INPUT .//fen2d.cpp
+INPUT .//fen2d.cpp
+INPUT .//fen2d.cpp
+INPUT .//fenwickpro.cpp
+INPUT .//fenwickpro.cpp
+INPUT .//fenwickpro.cpp
+INPUT .//fenwickpro.cpp
+INPUT .//fenwickpro.cpp
+INPUT .//fenwickpro.cpp
+INPUT .//hld.cpp
+INPUT .//hld.cpp
+INPUT .//hld.cpp
+INPUT .//hld.cpp
+INPUT .//hld.cpp
+INPUT .//hld.cpp
+INPUT .//MO's algo.cpp
+INPUT .//MO's algo.cpp
+INPUT .//MO's algo.cpp
+INPUT .//MO's algo.cpp
+INPUT .//MO's algo.cpp
+INPUT .//MO's algo.cpp
+INPUT .//hash.cpp
+INPUT .//hash.cpp
+INPUT .//hash.cpp
+INPUT .//hash.cpp
+INPUT .//hash.cpp
+INPUT .//hash.cpp
 INPUT .//z_function.cpp
 INPUT .//z_function.cpp
 INPUT .//z_function.cpp
@@ -437,21 +525,108 @@ INPUT .//z_function.cpp
 INPUT .//z_function.cpp
 INPUT .//z_function.cpp
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrro8c.tfm
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
+INPUT .//ahoo.cpp
+INPUT .//ahoo.cpp
+INPUT .//ahoo.cpp
+INPUT .//ahoo.cpp
+INPUT .//ahoo.cpp
+INPUT .//ahoo.cpp
+INPUT .//SuffixArray.cpp
+INPUT .//SuffixArray.cpp
+INPUT .//SuffixArray.cpp
+INPUT .//SuffixArray.cpp
+INPUT .//SuffixArray.cpp
+INPUT .//SuffixArray.cpp
+INPUT .//dijkastra.cpp
+INPUT .//dijkastra.cpp
+INPUT .//dijkastra.cpp
+INPUT .//dijkastra.cpp
+INPUT .//dijkastra.cpp
+INPUT .//dijkastra.cpp
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrro8c.vf
+INPUT .//scc.cpp
+INPUT .//scc.cpp
+INPUT .//scc.cpp
+INPUT .//scc.cpp
+INPUT .//scc.cpp
+INPUT .//scc.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//centroid.cpp
+INPUT .//centroid.cpp
+INPUT .//centroid.cpp
+INPUT .//centroid.cpp
+INPUT .//centroid.cpp
+INPUT .//centroid.cpp
+INPUT .//dinitz.cpp
+INPUT .//dinitz.cpp
+INPUT .//dinitz.cpp
+INPUT .//dinitz.cpp
+INPUT .//dinitz.cpp
+INPUT .//dinitz.cpp
+INPUT .//eularian tour.cpp
+INPUT .//eularian tour.cpp
+INPUT .//eularian tour.cpp
+INPUT .//eularian tour.cpp
+INPUT .//eularian tour.cpp
+INPUT .//eularian tour.cpp
+INPUT .//min cost max flow.cpp
+INPUT .//min cost max flow.cpp
+INPUT .//min cost max flow.cpp
+INPUT .//min cost max flow.cpp
+INPUT .//min cost max flow.cpp
+INPUT .//min cost max flow.cpp
+INPUT .//Geo.cpp
+INPUT .//Geo.cpp
+INPUT .//Geo.cpp
+INPUT .//Geo.cpp
+INPUT .//Geo.cpp
+INPUT .//Geo.cpp
+INPUT .//Geometry.cpp
+INPUT .//Geometry.cpp
+INPUT .//Geometry.cpp
+INPUT .//Geometry.cpp
+INPUT .//Geometry.cpp
+INPUT .//Geometry.cpp
+INPUT .//Convex hull trick.cpp
+INPUT .//Convex hull trick.cpp
+INPUT .//Convex hull trick.cpp
+INPUT .//Convex hull trick.cpp
+INPUT .//Convex hull trick.cpp
+INPUT .//Convex hull trick.cpp
+INPUT .//convexhull.cpp
+INPUT .//convexhull.cpp
+INPUT .//convexhull.cpp
+INPUT .//convexhull.cpp
+INPUT .//convexhull.cpp
+INPUT .//convexhull.cpp
+INPUT .//circle.cpp
+INPUT .//circle.cpp
+INPUT .//circle.cpp
+INPUT .//circle.cpp
+INPUT .//circle.cpp
+INPUT .//circle.cpp
+INPUT .//point in circle.cpp
+INPUT .//point in circle.cpp
+INPUT .//point in circle.cpp
+INPUT .//point in circle.cpp
+INPUT .//point in circle.cpp
+INPUT .//point in circle.cpp
+INPUT .//circle-line.cpp
+INPUT .//circle-line.cpp
+INPUT .//circle-line.cpp
+INPUT .//circle-line.cpp
+INPUT .//circle-line.cpp
+INPUT .//circle-line.cpp
 INPUT notebook.aux
 INPUT c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb
