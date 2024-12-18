@@ -409,15 +409,18 @@ INPUT .//token.cpp
 INPUT .//token.cpp
 INPUT .//token.cpp
 INPUT .//token.cpp
-INPUT .//z_function.cpp
-INPUT .//z_function.cpp
-INPUT .//z_function.cpp
-INPUT .//z_function.cpp
-INPUT .//z_function.cpp
-INPUT .//z_function.cpp
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrro8c.tfm
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//convert_strdouble.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
+INPUT .//most divisors.cpp
 OUTPUT notebook.pdf
 INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
@@ -427,11 +430,20 @@ INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrb7t.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrb8r.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrro7t.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrro8r.tfm
+INPUT .//z_function.cpp
+INPUT .//z_function.cpp
+INPUT .//z_function.cpp
+INPUT .//z_function.cpp
+INPUT .//z_function.cpp
+INPUT .//z_function.cpp
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrro8c.tfm
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
+INPUT .//2sat.cpp
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/adobe/courier/pcrro8c.vf
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
-INPUT .//2sat.cpp
 INPUT notebook.aux
 INPUT c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
