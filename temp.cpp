@@ -1,4 +1,3 @@
-/* the great day is coming off */
 #pragma GCC optimize("Ofast,unroll-loops,fast-math")
 #include<bits/stdc++.h>
 using namespace std;

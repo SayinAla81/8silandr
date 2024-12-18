@@ -1,0 +1,1 @@
+"shell_cmd": "g++ ${file_name} && gnome-terminal -- bash -c './a.out; read'"

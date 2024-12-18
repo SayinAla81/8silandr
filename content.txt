@@ -1,2 +1,12 @@
+[Template - SublimeConfig]
+temp.cpp Template - SublimeConfig
+sublime_config.txt Template - SublimeConfig
+
+[Implementation]
+token.cpp Implementation
+
+[String]
+z_function.cpp String
+
 [Graph]
 2sat.cpp	2sat
