@@ -9,6 +9,7 @@
 \usepackage{multicol}
 \usepackage{amsmath}
 \usepackage{pdfpages}
+\usepackage{graphicx}  % اضافه کردن بسته برای تصاویر
 
 \renewcommand*{\ttdefault}{pcr}
 \renewcommand\cftsecfont{\fontsize{9}{9}\bfseries}
@@ -26,7 +27,7 @@
     basicstyle=\fontsize{8}{9}\ttfamily,
 }
 \lstdefinestyle{cpp}{
-	style=shared,
+    style=shared,
     language=C++,
     keywordstyle=\bfseries\color{green!40!black},
     commentstyle=\itshape\color{red!80!black},
@@ -55,7 +56,7 @@
 \lstset{escapechar=@}
 
 \pagestyle{fancy}
-\fancyhead[L]{IUST - 8 silandr}
+\fancyhead[L]{Iran University of Science and Technology - 8 silandr}
 \fancyhead[R]{\thepage}
 \fancyfoot[C]{}
 
@@ -66,7 +67,7 @@
 \fancyfoot[C]{}
 }
 
-\title{\vspace{-4ex}\Large{IUST - 8 silandr - Notebook}}
+\title{\vspace{-4ex}\Large{Iran University of Science and Technology (8 silandr)  Notebook}}
 \author{}
 \date{}
 
@@ -80,6 +81,17 @@
 \baselineskip=1.2\baselineskip
 \tableofcontents
 }
+
+\newpage  % ایجاد صفحه جدید برای تصویر
+
+% اضافه کردن تصویر در صفحه جدید
+\begin{center}
+    \includegraphics[width=1.2\textwidth]{Untitled.png}  % 20 درصد بزرگ‌تر از عرض صفحه
+\end{center}
+
+
+\newpage  % شروع متن از صفحه جدید
+
 \pagestyle{fancy}
 
 \input contents.tex

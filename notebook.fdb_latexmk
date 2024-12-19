@@ -1,6 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1734540760 "c:/Users/Asus/Desktop/ICPC/8silandr/notebook.tex" "notebook.pdf" "notebook" 1734540760
-  "c:/Users/Asus/Desktop/ICPC/8silandr/notebook.tex" 1734534240 2148 a500735c1ad5e8c704ff3a9aa321e958 ""
+["pdflatex"] 1734579180 "c:/Users/Asus/Desktop/ICPC/8silandr/notebook.tex" "notebook.pdf" "notebook" 1734579180
+  "Untitled.png" 1734578631 28419 666b975a6d1c5bef041a33248345488e ""
+  "c:/Users/Asus/Desktop/ICPC/8silandr/notebook.tex" 1734579178 2623 292a5647d64c16da380ba28893ff149a ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1724344049 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1724344174 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm" 1724343961 960 4ab65358b8406f30ef5496c8c096d22b ""
@@ -78,9 +79,9 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1724345371 4448422 53302d27d6d34c8e3e97ce3a8b4bdfa7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1724345499 2826461 0a773b453517df36f2a8571d62012f4f ""
   "c:/texlive/2022/texmf.cnf" 1724345355 713 e69b156964470283e0530f5060668171 ""
-  "contents.tex" 1734540757 4932 f749def8a05f727e1f493641aac44fd3 ""
-  "notebook.aux" 1734540760 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "notebook.tex" 1734534240 2148 a500735c1ad5e8c704ff3a9aa321e958 ""
+  "contents.tex" 1734578397 5116 20cb596557b7e8082b85a9b40a352c87 ""
+  "notebook.aux" 1734579180 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "notebook.tex" 1734579178 2623 292a5647d64c16da380ba28893ff149a ""
   "notebook.toc" 0 -1 0 "pdflatex"
   (generated)
   "notebook.aux"
